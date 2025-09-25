@@ -1,0 +1,94 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://i.imgur.com/11fAkw8.png",
+			"disableicontext": true,
+			"iconposition": 3,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/hfmoDWq.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Welcome to BluBlood Gaming Servers!</>",
+						"text": "<RichColor Color=\"1,0.647,0,1\">Welcome to our Clusters!!</>\r\n<RichColor Color=\"1,0.647,0,1\">PVE Modded Vanilla and Overhaul ASA PC/PS5/Xbox Crossplay as well as Primal Fear and Omega ASE Servers for Steam only.</>\r\n\r\n<RichColor Color=\"1,0.647,0,1\">Please join the Discord with the link below or accessed from the Radial Manu/F3, and Register your Characters and Tribes.</>\r\n\r\n<RichColor Color=\"1,0.647,0,1\">Shop accessible via F2 for PC and Radial menu for Consoles.</>\r\n\r\n<RichColor Color=\"1,0.647,0,1\">For Starter Kits type !kit in Global Chat.</>\r\n\r\n<RichColor Color=\"1,0,0,1\">**</><RichColor Color=\"1,0.647,0,1\">IMPORTANT</><RichColor Color=\"1,0,0,1\">**</><RichColor Color=\"1,0.647,0,1\">  For Base and Building info, Check out the Bases tab above!</>\r\n\r\n\r\n<RichColor Color=\"1,0,0,1\">About US:</>\r\n<RichColor Color=\"1,0.647,0,1\">Founded in 2019 Pre-Pandemic We have been Your Home For Dedicated Server Gaming for years and we are NOT going anywhere!</>"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Rules",
+				"imageurl": "https://i.imgur.com/jsnehr5.png",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Laws of the Land</>",
+						"text": "<RichColor Color=\"1,0,0,1\">BluBlood Gaming Rules Disclaimer:</>\r\n<RichColor Color=\"1,0.647,0,1\">By Joining The Blublood Servers or Discord And Being a Part Of Our Community, You Are Agreeing to The Rules.</>\r\n<RichColor Color=\"1,0.647,0,1\">Be Informed! Ignorance Is Not an Excuse Here.</>\r\n\r\n<RichColor Color=\"1,0,0,1\">Player Behavior Rules:</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No trolling. Things such as picking up players, kiting, drowning, or going into bases uninvited, pretty standard.. don't be a jerk.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don't raid people on PvE servers for any reason; Boss-dropping or anything of the like to smash people's bases will get you instantly banned.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No in-siding or intentional tribe drama.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No players or tribes called Human or Bob; you must change your name.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> You MUST create a tribe, even if playing solo. This allows us to help you in case of ark bugs or glitches, etc.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don't bring your personal or old server drama into the Game. We do not want to hear it.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No taking advantage of exploits, cheats, and glitches.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> If you are rude or offensive in the voice chats, you will be muted till you learn; this includes talking inappropriately to ladies or randomly screaming/making noises, or just yelling. This also counts for any unwanted or random sexual advancements, jokes or “creepy talk”.</>\r\n\r\n<RichColor Color=\"1,0,0,1\">Dino + Creature Rules:</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Only ten or fewer of each: Gigas, Carchar, Wyverns, Drakes, Reapers, Magmas, and Rexes should be left out while offline for more than 2 hours per tribe/map. We recommend less, but the rule only violates numbers that are more significant than these when players are off the map for 2+ hours. These are some of the leading causes of lag due to animations. Keep as many as you like, but please keep extras Balled up. (Admins may use their discretion to ask you to Ball any tame left out in excess).</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don't knock out and run away. If you knock it out, tame it.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No leaving dinos on mating or wandering. Breed them, then turn them off right away. This will help to prevent extra lag and potential loss of your dinos.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don't leave Dinos on the obelisk. If your dino gets transported to a boss fight and dies, it will not be replaced.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don’t leave dinos aggressively wandering outside of the base.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> If any issues occur that are out of your hands, such as a glitch, please record a video so an admin can assist. Dinos/items will not be replaced without documentation or dino insurance.</>"
+					},
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Discord Rules</>",
+						"text": "<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Our Discord is 16+ Voice chats are 18+</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don't be toxic/a jerk</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No sharing Discord links.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No begging for free stuff.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Always abide by discord T.O.S.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No shit-stirring or causing drama.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No unsolicited DM's/inbox messages</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No one likes an ego; take it elsewhere.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Use a standard font for your nickname.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Got a problem with anyone? Open a ticket.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> React to all pings/notifications/tags you receive.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Please keep discussions in the relevant channels.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No Discussions revolving around religion or politics.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don’t use the @ everyone/@ here /@ team/server roles.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No sharing of GoFundMe/Paypal/Cash app or similar links.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Do not ping Staff or Ownership unless you REALLY need them.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Do not Sell anything for real-world cash on this discord or in the servers; asking for PayPal funds, commissions for art, cash app, or anything of the like will get you long-term/Not removable muted, and/or banned</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> If a Server is down or not letting you join, please wait 20 minutes, and if it's still down or nobody can join, please tag Ownership</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No impersonating others or using the same name as them.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No impersonating Staff.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Keep your drama off the channels; keep it to inbox or tickets.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> No racism, homophobia, harassment, hate speech or bullying.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Firm but fair admins: Treat us how you want to be treated. We will give back the same attitude/energy you give us.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Please read and react to any pings/notifications/tags you receive. We will not be at fault if you miss any vital information.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Got a problem with a Team member? Message Ownership</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Don’t private message the team members with problems, please use the help tickets</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> All prizes from giveaways or rewards must be claimed within 5 days.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Persons under 16 are not allowed to use PayPal or financial documents not owned by them. Children under 16 are not welcome in this discord without adult/parental approval, as we are an adult community. BBG does not take responsibility for any/all mishaps involving children/younger adults. Parents or guardians are responsible for the actions of their children, not us.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> If playing our game servers, change your discord nickname to your in-game name and tribe name or Gamertag.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Members may not share other members' personal details or real-life information, circumstances, jobs, and situations unless allowed by the person being spoken about. This also applies to photo posting.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Arguing with team members will not do you any favors, nor will lighting pitchforks to make a change. Make suggestions and discuss ideas and problems in a mature and adult way.</>"
+					},
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Disciplinary Actions</>",
+						"text": "<RichColor Color=\"1,0.647,0,1\">Don't Break The Rules, So I Don't Break Your Legs - Poe.</>\r\n\r\n<RichColor Color=\"1,0,0,1\">We Have A 3-strike System:</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Warning/s</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> 24 or 48-hour discord and/or game server ban.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Permanent discord and/or game server ban.</>\r\n<RichColor Color=\"1,0,0,1\">**</><RichColor Color=\"1,0.647,0,1\">Certain situations may require skipping directly to a ban</><RichColor Color=\"1,0,0,1\">**</>\r\n\r\n<RichColor Color=\"1,0,0,1\">An Insta-ban Will be Given For:</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Any form of racism, homophobic or trash talk.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> The N-word in any format(this also counts for player names, or tribe names)</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> ANY talk of rape, assult be it fake or real, threats to real people, personal harm to self or others</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Catfishing, scams, lieing about ones self or others to do harm or manipulate.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Insulting staff, ownership, or any workers on the server.(and saying it is a joke, wont save you)</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Any form of hacking / cheating / exploiting.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Threats/actions of/to lawsuit or intent to cause financial harm in any way.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Posting personal nudes, other peoples personal nudes, anyform of nude in the discord</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> Sexual or agressive talk reguarding, miniors, or adults alike</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Bases",
+				"imageurl": "https://i.imgur.com/BHBa6u7.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Base Rules and How things Work</>",
+						"text": "<RichColor Color=\"1,0,0,1\">BBG Base Bubbles:</>\r\n\r\n<RichColor Color=\"1,0.647,0,1\">You can get the Bubbles (BBG Base Flags) free from the shop, or craft them in your inventory. </>\r\n<RichColor Color=\"1,0.647,0,1\">They are Called \"BBG Base Protection\" - They look like Flags and come in sizes Large, Small and Outpost.</>\r\n<RichColor Color=\"1,0.647,0,1\">You can have 3 Flags on each map at any one time, in any combination that includes no more than 1 Large and/or 2 Small Flags.</>\r\n<RichColor Color=\"1,0.647,0,1\">(Only Outpost size flags can be used on Platform Saddles)</>\r\n\r\n<RichColor Color=\"1,0.647,0,1\">Once you have Placed your \"Flag\" (You can change its appearance by using its Radial Menu) Make sure you can see the Bubble. </>\r\n<RichColor Color=\"1,0.647,0,1\">(This is a personal radial menu option which enables you to see your own or other Base Bubbles)</>\r\n<RichColor Color=\"1,0.647,0,1\">Use this Visible Bubble to make sure all of your base is completely contained within the Bubble.</>\r\n<RichColor Color=\"1,0.647,0,1\">Any part of your Base not Covered will be destroyed after 5 days, as will anything not under a Bubble that has existed for 5 days or longer.</>\r\n\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> You get 3 flags per map, per tribe.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> The Large Flag has a 30 foundation radius.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> They do not require fuel.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> They do not have a pickup timer.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> They do not have a placement timer.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> They do not have a limit on how many you can have in your inventory.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> They do not have a limit on how many you can have in a vault.</>\r\n<RichColor Color=\"1,0,0,1\">*</><RichColor Color=\"1,0.647,0,1\"> They do not have a limit on how many you can have in a dino.</>\r\n\r\n<RichColor Color=\"1,0.647,0,1\">If you have any Questions Please feel free to open a ticket in Discord and the Admin staff will be happy to Help you.</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Server Info",
+				"imageurl": "https://i.imgur.com/soZWPHD.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Server Settings and Mod Info</>",
+						"text": "<RichColor Color=\"1,0.647,0,1\">Under Construction</>"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Unique to BBG",
+				"imageurl": "https://i.imgur.com/xtIFPWd.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Unique Items and Features</>",
+						"text": "<RichColor Color=\"1,0,0,1\">Poe's Box -</> <RichColor Color=\"1,0.647,0,1\">Obtained in the BBG Store.</>\r\n<RichColor Color=\"1,0.647,0,1\">This box automatically gathers any non transferable items and gives them back on the next map..Usually</>\r\n\r\n<RichColor Color=\"1,0,0,1\">BBG Cluster Storage -</> <RichColor Color=\"1,0.647,0,1\">Obtained in the BBG Store.</> \r\n<RichColor Color=\"1,0.647,0,1\">Put one down and its contents will follow you to another base or even another Server!</>\r\n<RichColor Color=\"1,0.647,0,1\">Starts with 60 slots.. Tek Power it and it will have 120 slots and be a Refrigerator!</>\r\n\r\n<RichColor Color=\"1,0,0,1\">BBG Base Protection Flags -</> <RichColor Color=\"1,0.647,0,1\">Obtained in the BBG Store OR Craft for 1 fiber each in your Inventory.</>\r\n<RichColor Color=\"1,0.647,0,1\">Used to Claim space for your base builds, for more info check out the</> <RichColor Color=\"1,0,0,1\">Bases</> <RichColor Color=\"1,0.647,0,1\">Tab above</>\r\n\r\n<RichColor Color=\"1,0.647,0,1\">-Under Construction, Look for More in the Future!-</>\r\n"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/w8NE5QMd"
+			},
+			{
+				"text": "Website",
+				"url": "https://blubloodgaming.premiumark.net/"
+			}
+		],
+		"version": 2
+	}
+}
