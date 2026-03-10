@@ -62,7 +62,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat.PrimalItemConsumable_CookedPrimeMeat",
               "maxQuantityPerCycle": 0,
@@ -74,7 +80,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedMeat_Fish.PrimalItemConsumable_CookedMeat_Fish",
               "maxQuantityPerCycle": 0,
@@ -86,7 +98,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Fish.PrimalItemConsumable_CookedPrimeMeat_Fish",
               "maxQuantityPerCycle": 0,
@@ -98,7 +116,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_CookedPrimeMeat_Mutton.PrimalItemConsumable_CookedPrimeMeat_Mutton",
               "maxQuantityPerCycle": 0,
@@ -134,7 +158,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_RawMutton.PrimalItemConsumable_RawMutton",
               "maxQuantityPerCycle": 0,
@@ -170,7 +200,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
               "maxQuantityPerCycle": 0,
@@ -182,7 +218,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil",
               "maxQuantityPerCycle": 0,
@@ -232,7 +274,7 @@
           "itemSelectMode": 0,
           "items": [
             {
-              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ChitinPaste.PrimalItemResource_ChitinPaste",
+              "bpPath": "/Game/PrimalEarth/Dinos/Achatina/PrimalItemResource_SnailPaste.PrimalItemResource_SnailPaste",
               "maxQuantityPerCycle": 0,
               "maxQuantityInTerminal": 0,
               "quantityPerDino": 1,
@@ -242,7 +284,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil",
               "maxQuantityPerCycle": 0,
@@ -278,7 +326,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_RedMushroom.PrimalItemResource_RedMushroom",
               "maxQuantityPerCycle": 0,
@@ -290,7 +344,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_GreenMushroom.PrimalItemResource_GreenMushroom",
               "maxQuantityPerCycle": 0,
@@ -302,7 +362,13 @@
               "comsumesSelectMode": 0,
               "consumesItemsChance": 0,
               "consumesItems": []
-            },
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
             {
               "bpPath": "/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_BlueMushroom.PrimalItemResource_BlueMushroom",
               "maxQuantityPerCycle": 0,
@@ -311,4 +377,235 @@
               "alternateSelectMode": 0,
               "alternateItemsChance": 0.0,
               "alternateItems": [],
-              "comsumesSelectMode": 0
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Eocarcharia-TA/Content/TA_Eocarch/Mushrooms/Mushroom_Crafts/PrimalItemResource_PurpleMushroom.PrimalItemResource_PurpleMushroom",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0.0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Eurypterid/Eurypterid_Character_BP.Eurypterid_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Oil.PrimalItemResource_Oil",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0.0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Silicon.PrimalItemResource_Silicon",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0.0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        },
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_BlackPearl.PrimalItemResource_BlackPearl",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0.0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Bee/Bee_Queen_Character_BP.Bee_Queen_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_Honey.PrimalItemConsumable_Honey",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0.0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dinoType": "/Game/PrimalEarth/Dinos/Archaeopteryx/Archa_Character_BP.Archa_Character_BP",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 300.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Sap.PrimalItemResource_Sap",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0.0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dinoType": "/Game/ASA/Dinos/Archelon/Dinos/Archelon_Character_BP_ASA.Archelon_Character_BP_ASA",
+      "chanceToProduce": 1.0,
+      "produces": [
+        {
+          "intervalSeconds": 3600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "bpPath": "/Game/ASA/Dinos/Archelon/Dinos/Consumables/PrimalItemConsumable_Veggie_TurtleAlgae_ASA.PrimalItemConsumable_Veggie_TurtleAlgae_ASA",
+              "maxQuantityPerCycle": 0,
+              "maxQuantityInTerminal": 0,
+              "quantityPerDino": 1,
+              "alternateSelectMode": 0,
+              "alternateItemsChance": 0.0,
+              "alternateItems": [],
+              "comsumesSelectMode": 0,
+              "consumesItemsChance": 0,
+              "consumesItems": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chanceToProduce": 1.0,
+      "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Poison.Wyvern_Character_BP_Poison",
+      "produces": [
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "alternateItems": [],
+              "alternateItemsChance": 0.0,
+              "alternateSelectMode": 0,
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk",
+              "comsumesSelectMode": 0,
+              "consumesItems": [],
+              "consumesItemsChance": 0,
+              "maxQuantityInTerminal": 0,
+              "maxQuantityPerCycle": 0,
+              "quantityPerDino": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chanceToProduce": 1.0,
+      "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Fire.Wyvern_Character_BP_Fire",
+      "produces": [
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "alternateItems": [],
+              "alternateItemsChance": 0.0,
+              "alternateSelectMode": 0,
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk",
+              "comsumesSelectMode": 0,
+              "consumesItems": [],
+              "consumesItemsChance": 0,
+              "maxQuantityInTerminal": 0,
+              "maxQuantityPerCycle": 0,
+              "quantityPerDino": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chanceToProduce": 1.0,
+      "dinoType": "/Game/ScorchedEarth/Dinos/Wyvern/Wyvern_Character_BP_Lightning.Wyvern_Character_BP_Lightning",
+      "produces": [
+        {
+          "intervalSeconds": 600.0,
+          "itemSelectMode": 0,
+          "items": [
+            {
+              "alternateItems": [],
+              "alternateItemsChance": 0.0,
+              "alternateSelectMode": 0,
+              "bpPath": "/Game/PrimalEarth/CoreBlueprints/Items/Consumables/BaseBPs/PrimalItemConsumable_WyvernMilk.PrimalItemConsumable_WyvernMilk",
+              "comsumesSelectMode": 0,
+              "consumesItems": [],
+              "consumesItemsChance": 0,
+              "maxQuantityInTerminal": 0,
+              "maxQuantityPerCycle": 0,
+              "quantityPerDino": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
