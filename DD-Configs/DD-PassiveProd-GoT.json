@@ -404,7 +404,7 @@
       ]
     },
     {
-      "dinoType": "/Game/PrimalEarth/Dinos/Eurypterid/Eurypterid_Character_BP.Eurypterid_Character_BP",
+      "dinoType": "/Game/PrimalEarth/Dinos/Eurypterid/Euryp_Character.Euryp_Character",
       "chanceToProduce": 1.0,
       "produces": [
         {
