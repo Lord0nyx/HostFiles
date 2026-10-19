@@ -19,7 +19,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Welcome",
-				"imageurl": "https://imgur.com/QVHINEN.jpeg",
+				"imageurl": "https://imgur.com/poCQbEj.png",
 				"content": [
 					{
 						"title": "",
@@ -30,7 +30,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Rules",
-				"imageurl": "https://imgur.com/DqcmGF9.png",
+				"imageurl": "https://imgur.com/5Q1bK1F.png",
 				"content": [
 					{
 						"title": "<RichColor Color=\"1,0.65,0,1\">Laws of the Land</>",
@@ -49,7 +49,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Bases",
-				"imageurl": "https://imgur.com/ApUtCm4.jpeg",
+				"imageurl": "https://imgur.com/Tjs7YED.png",
 				"content": [
 					{
 						"title": "<RichColor Color=\"1,0.65,0,1\">Arkland Base Bubbles:</>",
@@ -59,8 +59,8 @@
 			},
 			{
 				"layout": 1,
-				"buttontext": "Unique to Arkland",
-				"imageurl": "https://imgur.com/Kxf2asX.jpeg",
+				"buttontext": "Unique to OhOg",
+				"imageurl": "",
 				"content": [
 					{
 						"title": "",
@@ -72,11 +72,11 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://discord.gg/9nGewJTF9K"
+				"url": "https://discord.gg/ohog"
 			},
 			{
 				"text": "Website",
-				"url": "https://arkland.premiumark.net/page/130709-arkland-homepage/"
+				"url": "https://ohana-obsidian-gaming.premiumark.net/"
 			}
 		],
 		"version": 2
