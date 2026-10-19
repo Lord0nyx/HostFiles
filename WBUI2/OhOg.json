@@ -1,1 +1,84 @@
 
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://imgur.com/0IvTK3H.png",
+			"disableicontext": true,
+			"iconposition": 3,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": false,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://imgur.com/QVHINEN.jpeg",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Rules",
+				"imageurl": "https://imgur.com/DqcmGF9.png",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0.65,0,1\">Laws of the Land</>",
+						"text": ""
+					},
+					{
+						"title": "<RichColor Color=\"1,0.65,0,1\">Discord Rules</>",
+						"text": ""
+					},
+					{
+						"title": "<RichColor Color=\"1,0.65,0,1\">Disciplinary Actions</>",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Bases",
+				"imageurl": "https://imgur.com/ApUtCm4.jpeg",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0.65,0,1\">Arkland Base Bubbles:</>",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Unique to Arkland",
+				"imageurl": "https://imgur.com/Kxf2asX.jpeg",
+				"content": [
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/9nGewJTF9K"
+			},
+			{
+				"text": "Website",
+				"url": "https://arkland.premiumark.net/page/130709-arkland-homepage/"
+			}
+		],
+		"version": 2
+	}
+}
